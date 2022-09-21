@@ -128,7 +128,7 @@ Customers can explore and test out AWS services for free up to the allotted serv
 How to avail the aws free tier?
 
 
-* First Open up your web browser and navigate to <ahref="https://go.aws/3S372my"target="_blank"> AWS Free Tier Page</a>
+* First Open up your web browser and navigate to <a href="https://go.aws/3S372my" target="_blank"> AWS Free Tier Page </a>
 * Click on "Create a free account," fill in the required details, and proceed.
 * Select your AWS type (Profesional/ Personal) Fill in the contact details asked there, like address, postal code, etc.
 * In the next step, it will ask for your PAN and payment details. You must fill in your credit card or debit card info and billing address and click on "Secure Submit."
